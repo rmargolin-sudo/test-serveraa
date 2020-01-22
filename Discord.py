@@ -51,4 +51,4 @@ class MyClient(discord.Client):
 
 # RUN
 client = MyClient()
-client.run('NjY5MTUxNDc2MjUzMTk2Mjk4.Xibp5Q.THr_IJlsT6-q6mXIWpoM2ICHC5w')
+client.run('BOT_TOKEN')
